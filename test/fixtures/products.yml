@@ -13,7 +13,7 @@ two:
   price: 9.99
 
 ruby:
-  title: Titulo	
+  title: Programming Ruby 1.9	
   description: Descricao
   image_url: bla.jpg
   price: 9.99
